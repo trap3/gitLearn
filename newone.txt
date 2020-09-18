@@ -3,3 +3,4 @@ now I  push my own project to the orgin repository.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 laalallll
+git stash
